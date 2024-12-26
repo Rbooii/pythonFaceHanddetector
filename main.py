@@ -1,3 +1,6 @@
+#copyleft @2024 Arco zp
+# feel free to modify this code as you guys need
+# happy coding!!
 import cv2
 import mediapipe as mp
 import time
